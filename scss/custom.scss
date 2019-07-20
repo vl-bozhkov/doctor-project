@@ -1,5 +1,8 @@
+@import './variables';
 $theme-colors: ('primary': #fda403, 'secondary': #e8751a);
 
 @import '../bootstrap/scss/bootstrap.scss';
 @import './navbar';
 @import './carousel';
+@import './signup.scss';
+@import './contact';
